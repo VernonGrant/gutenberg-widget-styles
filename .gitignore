@@ -1,0 +1,12 @@
+# Node
+.log
+
+# Dev Dependencies
+node_modules
+vendor
+
+# Emacs
+.dir-locals.el
+
+# Local
+bin/
